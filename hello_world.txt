@@ -1,0 +1,1 @@
+Ok so im doing step 4 of git tutorial in odin project
